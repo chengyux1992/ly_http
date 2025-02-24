@@ -43,7 +43,7 @@ export function SiteHeader() {
             >
               搜索网站...
             </Button>
-            <Link href={siteConfig.links.github} target="_blank" rel="noreferrer">
+            /*<Link href={siteConfig.links.github} target="_blank" rel="noreferrer">
               <Button className="rounded-full" variant="ghost" size="icon">
                 <Icons.gitHub className="h-5 w-5" />
                 <span className="sr-only">GitHub</span>
@@ -54,7 +54,7 @@ export function SiteHeader() {
                 <Icons.twitter className="h-5 w-5 fill-current" />
                 <span className="sr-only">Twitter</span>
               </Button>
-            </Link>
+            </Link>*/
             <ThemeToggle />
           </div>
         </nav>

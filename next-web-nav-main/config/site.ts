@@ -168,30 +168,6 @@ export const NavData: NavData[] = [
         icon: "/icons/electron.ico",
         link: "https://www.electronjs.org/"
       },
-      {
-        title: "Tauri",
-        desc: "Tauri是一个框架，用于为所有主要桌面平台构建小巧、快速的二进制文件",
-        icon: "https://tauri.app/meta/favicon-96x96.png",
-        link: "https://tauri.app/"
-      },
-      {
-        title: "Flutter",
-        desc: "Flutter 是 Google 开源的应用开发框架，仅通过一套代码库，就能构建精美的、原生平台编译的多平台应用",
-        icon: "https://flutter.cn/assets/images/cn/flutter-icon.png",
-        link: "https://flutter.cn/"
-      },
-      {
-        title: "Uni-app",
-        desc: "uni-app 是一个使用 Vue.js 开发所有前端应用的框架，开发者编写一套代码，可发布到iOS、Android、Web（响应式）、以及各种小程序（微信/支付宝/百度/头条/QQ/快手/钉钉/淘宝）、快应用等多个平台",
-        icon: "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-a90b5f95-90ba-4d30-a6a7-cd4d057327db/d23e842c-58fc-4574-998d-17fdc7811cc3.png",
-        link: "https://uniapp.dcloud.io/"
-      },
-      {
-        title: "Taro",
-        desc: "Taro 是一个开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发 微信 / 京东 / 百度 / 支付宝 / 字节跳动 / QQ / 飞书 小程序 / H5 / RN 等应用",
-        icon: "/icons/taro.png",
-        link: "https://taro.jd.com"
-      }
     ]
   },
   {
@@ -203,42 +179,7 @@ export const NavData: NavData[] = [
         icon: "https://vuepress.vuejs.org/hero.png",
         link: "https://vitepress.vuejs.org"
       },
-      {
-        title: "VuePress",
-        desc: "Vue 驱动的静态网站生成器",
-        icon: "https://vuepress.vuejs.org/hero.png",
-        link: "https://vuepress.vuejs.org"
-      },
-      {
-        title: "Docusaurus",
-        desc: "快速构建以内容为核心的最佳网站",
-        icon: "/icons/docusaurus.svg",
-        link: "https://docusaurus.io"
-      },
-      {
-        title: "Hexo",
-        desc: "快速、简洁且高效的博客框架",
-        icon: "https://hexo.io/favicon.ico",
-        link: "https://hexo.io"
-      },
-      {
-        title: "GitBook",
-        desc: "GitBook帮助您为用户发布漂亮的文档，并集中您的团队的知识进行高级协作",
-        icon: "https://assets-global.website-files.com/600ead1452cf056d0e52dbed/6246d2036225eac4d74cff27_Favicon_Blue.png",
-        link: "https://www.gitbook.com/"
-      },
-      {
-        title: "Docsify",
-        desc: "docsify 可以快速帮你生成文档网站",
-        icon: "https://docsify.js.org/_media/icon.svg",
-        link: "https://docsify.js.org"
-      },
-      {
-        title: "WordPress",
-        desc: "WordPress是一款能让您建立出色网站、博客或应用程序的开源软件",
-        icon: "https://s.w.org/images/wmark.png",
-        link: "https://cn.wordpress.org/"
-      }
+
     ]
   },
   {
@@ -250,30 +191,7 @@ export const NavData: NavData[] = [
         desc: "一个面向开源及私有软件项目的托管平台",
         link: "https://github.com"
       },
-      {
-        title: "Gitee",
-        desc: "Gitee 是中国领先的基于 Git 的代码托管平台，类似于全球知名的 GitHub",
-        icon: "/icons/gitee.ico",
-        link: "https://gitee.com/"
-      },
-      {
-        title: "Gitlab",
-        desc: "更快地交付安全代码，部署到任何云，并推动业务成果",
-        icon: "https://gitlab.com/uploads/-/system/group/avatar/6543/logo-extra-whitespace.png?width=64",
-        link: "https://gitlab.com/"
-      },
-      {
-        title: "Gitea",
-        desc: "Gitea 是一个开源社区驱动的轻量级代码托管解决方案，后端采用 Go 编写，采用 MIT 许可证.",
-        icon: "https://gitea.io/images/favicon.png",
-        link: "https://gitea.io/"
-      },
-      {
-        title: "Coding",
-        desc: "提供一站式研发管理平台及云原生开发工具，让软件研发如同工业生产般简单高效，助力企业提升研发管理效能",
-        icon: "/icons/coding.png",
-        link: "https://coding.net/"
-      }
+
     ]
   },
   {
@@ -285,36 +203,7 @@ export const NavData: NavData[] = [
         icon: "https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/57x57.png",
         link: "https://vercel.com"
       },
-      {
-        title: "Netlify",
-        desc: "Netlify 是一家提供静态网站托管的云平台，支持从 Github, GitLab, Bitbucket 等代码仓库中自动拉取代码 然后进行项目打包和部署等功能",
-        icon: "/icons/netlify.png",
-        link: "https://www.netlify.com"
-      },
-      {
-        title: "Coolify",
-        desc: "一个开源和自我托管的 Heroku/Netlify 替代品",
-        icon: "/icons/coolify.png",
-        link: "https://coolify.io"
-      },
-      {
-        title: "GitHub Codespace",
-        desc: "全球最大的软件项目托管平台，发现优质开源项目",
-        icon: "https://github.githubassets.com/favicons/favicon.svg",
-        link: "https://github.com/codespaces"
-      },
-      {
-        title: "Railway",
-        desc: "带上你的代码，剩下交给我们 ",
-        icon: "/icons/railway.png",
-        link: "https://railway.app/"
-      },
-      {
-        title: "Supabase",
-        desc: "Supabase 是一个开源的后端即服务（BaaS）平台，它可以帮助开发者快速构建应用程序，无需编写后端代码。",
-        icon: "/icons/supabase.png",
-        link: "https://supabase.com/"
-      }
+
     ]
   },
   {
