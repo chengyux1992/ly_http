@@ -28,8 +28,8 @@ type NavData = {
 
 export const NavData: NavData[] = [
 
-  /* start-分类  */
-  /*
+  /**  start-分类  */
+  /** 
   {
     title: "类别1",
     items: [
@@ -46,8 +46,8 @@ export const NavData: NavData[] = [
         link: "https://icon-sets.iconify.design/"
       }
     ]
-  },*/
-  /* END-分类 */
+  }, //如果后面没有分类则删除逗号     */
+  /**  END-分类 */
 
   {
     title: "常用工具",
