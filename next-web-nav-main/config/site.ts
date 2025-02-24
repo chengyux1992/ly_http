@@ -1,8 +1,8 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "前端导航",
-  description: "基于 Next.js 的前端导航网站",
+  name: "不经一番彻骨寒，哪有梅花扑鼻香?",
+  description: "心若有所向往，何惧道阻且长。",
   mainNav: [],
   links: {
     twitter: "https://twitter.com/liwenka1",
@@ -54,9 +54,9 @@ export const NavData: NavData[] = [
     items: [
       {
         icon: "https://caniuse.com/img/favicon-128.png",
-        title: "Can I use",
-        desc: "前端 API 兼容性查询",
-        link: "https://caniuse.com"
+        title: "自建-短连接平台",
+        desc: "CF自建",
+        link: "https://url.ltel.top"
       }
 
     ]
@@ -73,10 +73,16 @@ export const NavData: NavData[] = [
         icon: "https://icon-sets.iconify.design/favicon.ico",
         link: "https://icon-sets.iconify.design/"
       },
+      {
+        title: "落地页模板",
+        desc: "TG-多国金融落地页参考",
+        icon: "https://icon-sets.iconify.design/favicon.ico",
+        link: "https://demo5.fastdogai.com/index.php?m=Public&a=template"
+      }
     ]
   },
 
-
+/** 
   {
     title: "跨平台",
     items: [
@@ -87,9 +93,9 @@ export const NavData: NavData[] = [
         link: "https://www.electronjs.org/"
       }
     ]
-  },
+  },*/
 
-
+/**
   {
     title: "站点生成",
     items: [
@@ -101,9 +107,9 @@ export const NavData: NavData[] = [
       }
 
     ]
-  },
+  }, */
 
-
+/** 
   {
     title: "代码托管",
     items: [
@@ -115,9 +121,9 @@ export const NavData: NavData[] = [
       }
 
     ]
-  },
+  },*/
 
-
+/** 
   {
     title: "网站托管",
     items: [
@@ -130,5 +136,5 @@ export const NavData: NavData[] = [
 
     ]
   }
-  
+  */
 ]
