@@ -57,6 +57,12 @@ export const NavData: NavData[] = [
         title: "自建-短连接平台",
         desc: "CF自建",
         link: "https://url.ltel.top"
+      },
+      {
+        icon: "https://caniuse.com/img/favicon-128.png",
+        title: "CF-导航页",
+        desc: "CF自建",
+        link: "https://my-nav.chengyux1992.workers.dev/"
       }
 
     ]
@@ -79,7 +85,13 @@ export const NavData: NavData[] = [
         icon: "https://icon-sets.iconify.design/favicon.ico",
         link: "https://demo5.fastdogai.com/index.php?m=Public&a=template"
       }
-    ]
+      {
+        title: "无版权-图库导航",
+        desc: "聚合多个图库导航",
+        icon: "https://icon-sets.iconify.design/favicon.ico",
+        link: "https://www.amz123.com/tuku"
+      }
+
   },
 
 /** 
